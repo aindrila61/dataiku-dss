@@ -23,7 +23,7 @@ The objective of this project is to predict the future location (latitude endpoi
 * Built an end-to-end machine learning pipeline
 
 ## Dataiku Flow
-
+![Flow Diagram](images/pipeline flow.png)
 
 ## Key Learnings
 
