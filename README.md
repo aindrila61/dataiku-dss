@@ -15,7 +15,7 @@ The objective of this project is to predict the future location (latitude endpoi
 1. Data Cleaning & Preparation using Dataiku Flow
 2. Feature Engineering on location dataset
 3. Model Training using Ridge Regression
-4. Model Evaluation & Prediction of latEnd
+4. Model Evaluation & Prediction of latEnd and lonEnd
 
 ## Results
 
